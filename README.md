@@ -16,14 +16,8 @@ Sou um **Frontend Developer** focado em criar interfaces rápidas e interativas.
 
 ## Contato
 
-- **GitHub**: [github.com/marcus](https://github.com/marcus)
-- **LinkedIn**: [linkedin.com/in/marcus](https://www.linkedin.com/in/marcus)
-- **Email**: marcus@email.com
+- **Email**: marcus.vinicius.bittencourt.c@gmail.com
 
 ## Como rodar este projeto
 
-Este é um projeto simples de apresentação pessoal utilizando **Next.js** e **Tailwind CSS**. Para rodá-lo localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/olamundo.git
+Este é um projeto simples de apresentação pessoal utilizando **Next.js** e **Tailwind CSS**. 
